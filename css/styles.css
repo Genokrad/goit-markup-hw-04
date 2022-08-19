@@ -264,7 +264,7 @@ body {
   cursor: pointer;
   text-align: center;
 
-  min-width: 200;
+  min-width: 200px;
 }
 
 /* СЕКЦИЯ ПРЕИМУЩЕСТВА */
@@ -518,7 +518,7 @@ body {
 .clients-title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1,16;
+  line-height: 1.16;
   text-align: center;
   color: var(--title-text-color);
   margin-bottom: 50px;
